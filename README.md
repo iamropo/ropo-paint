@@ -1,5 +1,5 @@
 # ropo-paint
-Electron version of the paint program from Eloquent js
+A simple paint program from **Eloquent JS** built using **Electron**
 
 ##Instructions
 
